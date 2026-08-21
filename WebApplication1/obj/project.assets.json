@@ -3410,23 +3410,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nebula Pc\\.nuget\\packages\\": {},
+    "C:\\Users\\rsyed\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\rsyed\\OneDrive - Swinburne University\\2026 SEM 2\\SoftDeployment\\Task2\\Azure-Deployment\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\Nebula Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\rsyed\\OneDrive - Swinburne University\\2026 SEM 2\\SoftDeployment\\Task2\\Azure-Deployment\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\rsyed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rsyed\\OneDrive - Swinburne University\\2026 SEM 2\\SoftDeployment\\Task2\\Azure-Deployment\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nebula Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rsyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3435,6 +3435,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
