@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DeleteExistingFiles>False</DeleteExistingFiles>
+    <SkipRemoteFilesCheck>True</SkipRemoteFilesCheck>
+    <PublishScope>ProjectFolder</PublishScope>
+    <LogLevel>Normal</LogLevel>
+    <IgnoreMask />
+    <publishUrl>waws-prod-sy3-113.ftp.azurewebsites.windows.net</publishUrl>
+    <UserName>task24-php-RazaSyed\$task24-php-RazaSyed</UserName>
+    <_SavePWD>True</_SavePWD>
+    <FtpSitePath>/site/wwwroot</FtpSitePath>
+    <FtpPassiveMode>True</FtpPassiveMode>
+    <FtpSecurity>Explicit</FtpSecurity>
+    <WebPublishMethod>FTP</WebPublishMethod>
+  </PropertyGroup>
+</Project>

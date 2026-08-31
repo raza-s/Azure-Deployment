@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\High Distinction\\Task24PhpApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB19E645-A298-7E12-454F-8296BCFF615C}|Task24PhpApp.phpproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\high distinction\\task24phpapp\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{DB19E645-A298-7E12-454F-8296BCFF615C}|Task24PhpApp.phpproj|solutionrelative:index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\High Distinction\\Task24PhpApp\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\High Distinction\\Task24PhpApp\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2026-08-31T11:39:07.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

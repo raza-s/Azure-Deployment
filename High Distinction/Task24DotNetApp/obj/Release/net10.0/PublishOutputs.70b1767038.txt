@@ -1,0 +1,7 @@
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\Task24DotNetApp.exe
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\Task24DotNetApp.dll
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\Task24DotNetApp.deps.json
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\Task24DotNetApp.runtimeconfig.json
+C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\High Distinction\Task24DotNetApp\obj\Release\net10.0\PubTmp\Out\Task24DotNetApp.pdb

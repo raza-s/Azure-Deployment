@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Task24DotNetAppRazaSyed" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Nebula\ Pc\\Uni\\SWE\ Soft\ Deployment\\Assignment\ 2\\Azure\ Deployment\\High\ Distinction\\Task24DotNetApp\\obj\\Release\\net10\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
