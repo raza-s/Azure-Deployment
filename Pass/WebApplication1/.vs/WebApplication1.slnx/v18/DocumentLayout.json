@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Data\\Migrations\\20260822041033_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20260822041033_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\webapplication1\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\pass\\webapplication1\\data\\migrations\\20260822041033_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\migrations\\20260822041033_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,26 +66,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "MvcMovieContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\MvcMovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\MvcMovieContext.cs",
               "RelativeDocumentMoniker": "MvcMovieContext.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\MvcMovieContext.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\MvcMovieContext.cs",
               "RelativeToolTip": "MvcMovieContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T04:26:18.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T04:26:18.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-22T04:23:50.154Z",
               "EditorCaption": ""
@@ -94,61 +93,57 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
               "ViewState": "AgIAAJUAAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T04:17:11.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T04:17:11.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260822041033_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Data\\Migrations\\20260822041033_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20260822041033_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Data\\Migrations\\20260822041033_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20260822041033_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T04:10:33.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20260822041033_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Data\\Migrations\\20260822041033_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20260822041033_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Data\\Migrations\\20260822041033_InitialCreate.cs",
-              "RelativeToolTip": "Data\\Migrations\\20260822041033_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T04:10:33.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T04:02:39.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T04:02:39.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\HelloWorld\\Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-21T05:58:11.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T05:58:11.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -156,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -168,11 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -180,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -192,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\HelloWorld\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Views\\HelloWorld\\Index.cshtml",
               "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -204,11 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Controllers\\HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "Controllers\\HelloWorldController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwCAAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Pass\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

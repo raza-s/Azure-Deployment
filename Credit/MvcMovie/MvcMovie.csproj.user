@@ -17,5 +17,6 @@
     <WebStackScaffolding_DbContextTypeFullName>MvcMovie.Data.MvcMovieContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\Nebula Pc\Uni\SWE Soft Deployment\Assignment 2\Azure Deployment\Credit\MvcMovie\Properties\PublishProfiles\MvcMovie20260831204835 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

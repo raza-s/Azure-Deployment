@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\migrations\\mvcmoviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:migrations\\mvcmoviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\migrations\\20260826140935_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:migrations\\20260826140935_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Migrations\\20260826140935_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260826140935_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\migrations\\20260826140935_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:migrations\\20260826140935_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\migrations\\20260826140935_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:migrations\\20260826140935_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15EE520F-4478-4045-8EF8-6B64C555B1D0}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\nebula pc\\uni\\swe soft deployment\\assignment 2\\azure deployment\\credit\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +58,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MvcMovieContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Migrations\\MvcMovieContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MvcMovieContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Migrations\\MvcMovieContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MvcMovieContextModelSnapshot.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T14:37:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T14:36:57.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MvcMovieContext.cs",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\MvcMovieContext.cs",
               "RelativeDocumentMoniker": "MvcMovieContext.cs",
               "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\MvcMovieContext.cs",
               "RelativeToolTip": "MvcMovieContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T14:33:42.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:33:42.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20260826140935_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Migrations\\20260826140935_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20260826140935_InitialCreate.Designer.cs",
               "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Migrations\\20260826140935_InitialCreate.Designer.cs",
               "RelativeToolTip": "Migrations\\20260826140935_InitialCreate.Designer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T14:14:41.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:14:41.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260826140935_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Migrations\\20260826140935_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260826140935_InitialCreate.cs",
@@ -88,25 +119,23 @@
               "RelativeToolTip": "Migrations\\20260826140935_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T14:09:35.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:09:35.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T14:09:09.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:09:09.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -114,12 +143,11 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T14:06:58.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:06:58.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
@@ -127,12 +155,11 @@
               "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-26T14:06:01.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:06:01.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -140,12 +167,11 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-26T14:03:36.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:03:36.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -153,12 +179,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-26T14:01:50.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T14:01:50.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
@@ -171,13 +196,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
               "ToolTip": "C:\\Users\\Nebula Pc\\Uni\\SWE Soft Deployment\\Assignment 2\\Azure Deployment\\Credit\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T13:58:02.532Z",
               "EditorCaption": ""
